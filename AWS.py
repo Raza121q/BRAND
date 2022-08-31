@@ -1,2 +1,0 @@
-import AWS
-AWS.Subscription()
