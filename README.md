@@ -6,4 +6,4 @@
 - `rm -rf BRAND`
 - `git clone https://github.com/JUTTBRAND/BRAND.git`
 - `cd BRAND`
-- `python JUTT.py
+- `python juttbrand.py
